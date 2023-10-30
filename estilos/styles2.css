@@ -188,10 +188,11 @@ hr{
 
     background: url("../assets/imagenes/img_lasegunda.jpg");
     
-    background-size: 92%;
-    background-position: 14px 150px;
+    
+    background-size: 140%;
+    background-position: 50% 30%;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
 
 
     border-top: 18px solid black;
